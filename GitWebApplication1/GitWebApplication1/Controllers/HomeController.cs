@@ -10,7 +10,7 @@ namespace GitWebApplication1.Controllers
     {
         public ActionResult Index()
         {
-            return View();//fenzhi1
+            return View();//fenzhi2
         }
 
         public ActionResult About()
